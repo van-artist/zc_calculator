@@ -1,0 +1,8 @@
+archive/
+data/*
+out/*
+**/__pycache__/
+venv/
+jyjs.html
+jyx.html
+.DS_Store
